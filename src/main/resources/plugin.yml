@@ -1,0 +1,3 @@
+name: stAnimatedBlock
+version: '${project.version}'
+main: pt.joelcosta.stanimatedblock.Main
